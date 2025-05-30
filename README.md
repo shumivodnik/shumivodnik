@@ -1,4 +1,4 @@
-[![Header] (https://github.com/shumivodnik/shumivodnik/commit/eacdf966764b05f965f165201e8ff5af5a0cb929)]()
+![Header](assets/header.png)
 
 ## I'm beginner QA Engineer
 
