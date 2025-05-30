@@ -2,7 +2,7 @@
 
 ## I'm beginner QA Engineer
 
-## Tools
+### Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SOAP](https://img.shields.io/badge/SOAP-025E8C?style=for-the-badge)
 ![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-4285F4?style=for-the-badge)
@@ -20,7 +20,7 @@
 
 
 
-## Contacts
+### Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shumivoda)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shumivodnik)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shumyvoda)
