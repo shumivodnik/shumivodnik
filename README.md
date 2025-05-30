@@ -1,4 +1,4 @@
-![Header](assets/header.png)
+<img src="assets/header.png" width="500" alt="Header" />
 
 ## I'm beginner QA Engineer
 
