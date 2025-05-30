@@ -1,4 +1,4 @@
-<img src="assets/header.png" width="500" alt="Header" />
+<img src="assets/header.png" width="500" length="1240" alt="Header" />
 
 ## I'm beginner QA Engineer
 
